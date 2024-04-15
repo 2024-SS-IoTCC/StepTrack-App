@@ -32,3 +32,7 @@ Develop an integrated system that leverages smartphone sensors, edge computing, 
         - Historical data analysis and progression tracking.
         - User-friendly web interface displaying individual and aggregate statistics.
     - **Technologies**: TBD
+
+## Architecture
+
+Take a look at the architecture described in [ARCHITECTURE.md](ARCHITECTURE.md).
